@@ -159,14 +159,6 @@
 			isa = PBXGroup;
 			children = (
 				7A2D33D021BF8D9000E76C29 /* JWTool.h */,
-				7A2D33B121BF517700E76C29 /* Category */,
-			);
-			path = JWTool;
-			sourceTree = "<group>";
-		};
-		7A2D33B121BF517700E76C29 /* Category */ = {
-			isa = PBXGroup;
-			children = (
 				7A2D33B921BF518400E76C29 /* NSString+Addition.h */,
 				7A2D33B821BF518400E76C29 /* NSString+Addition.m */,
 				7A2D33BA21BF518400E76C29 /* UIBarButtonItem+Addition.h */,
@@ -182,7 +174,7 @@
 				7A2D33C021BF518400E76C29 /* UIView+Addition.h */,
 				7A2D33B721BF518300E76C29 /* UIView+Addition.m */,
 			);
-			path = Category;
+			path = JWTool;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
