@@ -8,6 +8,6 @@ s.homepage     = "https://github.com/jivyCoder/JWToolDemo"
 s.license      = "MIT"
 s.author       = { "jiawei" => "513590934@qq.com" }
 s.source       = { :git => "https://github.com/jivyCoder/JWToolDemo.git", :tag => "#{s.version}" }
-s.source_files = "JWTool"
+s.source_files = "JWTool/*.{h,m}"
 s.requires_arc = true 
 end
